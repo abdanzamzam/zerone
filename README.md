@@ -1,1 +1,1 @@
-# Zerone - Complated admin Resful API dashboard
+# Zerone - Complated admin Restful API dashboard
