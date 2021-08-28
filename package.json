@@ -1,0 +1,23 @@
+{
+  "name": "zerone",
+  "version": "1.0.0",
+  "description": "Zerone has ready-to-serve servers for the sake of fast features for the initial foundation of building Reastfull API-based applications. Among them: login, register, CRUD user profile biodata.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdanzamzam/zerone.git"
+  },
+  "keywords": [],
+  "author": "Abdan Zam Zam Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdanzamzam/zerone/issues"
+  },
+  "homepage": "https://github.com/abdanzamzam/zerone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
